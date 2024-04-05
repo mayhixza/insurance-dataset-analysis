@@ -11,10 +11,10 @@ In this project, I analysed a dataset of a sample of patients seeking medical in
 6. Sci-kit learn
 
 # Variables in dataset
-age: age of patient in years
-sex: binary value, either 'male' or 'female'
-bmi: body mass index of patient
-children: number of children of a patient
-smoker: binary value, 'yes' or 'no'
-region: region where patient resides
-charges: insurance charges for a patient
+age: age of patient in years  
+sex: binary value, either 'male' or 'female'  
+bmi: body mass index of patient  
+children: number of children of a patient  
+smoker: binary value, 'yes' or 'no'  
+region: region where patient resides  
+charges: insurance charges for a patient  
