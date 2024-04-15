@@ -3,9 +3,9 @@
 This repository contains code and documentation for an Exploratory Data Analysis (EDA) project conducted on Kaggle's [Medical Cost Insurance dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance). The project aims to explore the relationships between various factors and medical insurance costs, utilizing data visualization techniques and implementing linear regression models. The dataset is also available [here](https://github.com/stedy/Machine-Learning-with-R-datasets).
 
 ## Project Overview:
-Dataset: Kaggle's Medical Cost Insurance dataset
-Objective: Explore factors influencing medical insurance costs and build predictive models.
-Techniques Used: Exploratory Data Analysis, Data Visualization, Linear Regression
+Dataset: Kaggle's Medical Cost Insurance dataset  
+Objective: Explore factors influencing medical insurance costs and build predictive models.  
+Techniques Used: Exploratory Data Analysis, Data Visualization, Linear Regression  
 Tools Used: Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn, Scikit-learn, SciPy
 
 ## Variables in dataset
